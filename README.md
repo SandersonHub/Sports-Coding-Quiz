@@ -29,5 +29,4 @@ Anyone who helped or provided me through this process up to this point!
 https://sandersonhub.github.io/Sports-Coding-Quiz/
 
 ## Feature Photos
-![chrome_sJtgVRO9jS](https://github.com/SandersonHub/Sports-Coding-Quiz/assets/128574459/15fe3955-4517-40ce-9c43-5337bce7923c)
-![chrome_yXZyjMJzCW](https://github.com/SandersonHub/Sports-Coding-Quiz/assets/128574459/da1a1eeb-c6af-4637-8010-2e6f661f8783)
+![chrome_sJtgVRO9jS](https://github.com/SandersonHub/Sports-Coding-Quiz/assets/128574459/15fe3955-4517-40ce-9c43-5337bce7923c) ![chrome_yXZyjMJzCW](https://github.com/SandersonHub/Sports-Coding-Quiz/assets/128574459/da1a1eeb-c6af-4637-8010-2e6f661f8783)
