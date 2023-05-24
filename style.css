@@ -1,0 +1,74 @@
+
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  margin: 10px;
+  padding: 3px;
+}
+.container {
+  max-width: 437px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+  
+  h1 {
+    margin-bottom: 20px;
+    font-size:100px;
+    background-color: purple;
+    color: white;
+  }
+  p {
+    font-weight: bold;
+    color: red;
+  }
+  
+  
+  #question {
+    margin-bottom: 42px;
+  }
+  
+  #choices {
+    list-style-type: none;
+    padding: 10;
+  }
+  #timer {
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-weight: bold;
+  }
+  
+  #game-over {
+    margin-top: 18px;
+  }
+  #choices li {
+  
+    margin-bottom: 20px;
+  }
+  
+  #start-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  
+  #score-form label {
+    display: block;
+    margin-bottom: 15px;
+  }
+  #score-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  #score-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 12px;
+  }
+  
+  .answer-choice {
+    
+    cursor: pointer;
+    color: purple;
+  }

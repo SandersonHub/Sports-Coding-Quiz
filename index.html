@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coding Sports Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Coding Sports Quiz</h1>
+    <div id="quiz">
+      <h2 id="question"></h2>
+      <ul id="choices"></ul>
+    </div>
+    <div id="timer">Timer: <span id="time">60</span> seconds</div>
+    <p>You have 60 seconds to complete the questions that prompt, every question you get wrong it's -10 seconds!</p>
+    <button id="start-btn">Start</button>
+    <div id="game-over" style="display: none;">
+      <h2>Game Over!</h2>
+      <form id="score-form">
+        <label for="initials">Enter your name:</label>
+        <input type="text" id="initials" required>
+        <button type="submit">Save</button>
+      </form>
+    </div>
+    <div id="high-scores" style="display: none;">
+        <h2>High Scores</h2>
+        <ul id="scores-list"></ul>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
